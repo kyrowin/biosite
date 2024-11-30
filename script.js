@@ -4,7 +4,7 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 let stars = [];
-const numStars = 1024; // Increased number of stars
+const numStars = 512; // Increased number of stars
 
 class Star {
     constructor() {
